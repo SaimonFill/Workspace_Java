@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Enums&apos; to &apos;enums&apos;&#x0D;&#x0A;- Original project: &apos;Exemplos Classes Abstratas&apos;&#x0D;&#x0A;- Original element: &apos;Exemplos Classes Abstratas/src/Enums&apos;&#x0D;&#x0A;- Renamed element: &apos;Exemplos Classes Abstratas/src/enums&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Enums&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Enums" name="enums" qualified="false" references="true" stamp="1613666749749" textual="false" version="1.0"/>
+</session>

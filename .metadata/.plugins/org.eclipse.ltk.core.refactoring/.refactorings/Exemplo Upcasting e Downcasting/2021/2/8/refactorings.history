@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;interestRAte&apos; in &apos;entities.SavingsAccount&apos; to &apos;interestRate&apos;&#x0D;&#x0A;- Original project: &apos;Exemplo Upcasting e Downcasting&apos;&#x0D;&#x0A;- Original element: &apos;entities.SavingsAccount.interestRAte&apos;&#x0D;&#x0A;- Renamed element: &apos;entities.SavingsAccount.interestRate&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;interestRAte&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;entities{SavingsAccount.java[SavingsAccount^interestRAte" name="interestRate" references="true" setter="false" stamp="1613498075514" textual="false" version="1.0"/>
+</session>

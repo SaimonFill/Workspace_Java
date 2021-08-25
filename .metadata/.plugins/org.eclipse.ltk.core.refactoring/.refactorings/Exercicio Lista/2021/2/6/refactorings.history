@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;salay&apos; in &apos;entities.Employee&apos; to &apos;salary&apos;&#x0D;&#x0A;- Original project: &apos;Exercicio Lista&apos;&#x0D;&#x0A;- Original element: &apos;entities.Employee.salay&apos;&#x0D;&#x0A;- Renamed element: &apos;entities.Employee.salary&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="false" description="Rename field &apos;salay&apos;" flags="589826" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/src&lt;entities{Employee.java[Employee^salay" name="salary" references="true" setter="false" stamp="1612637370983" textual="false" version="1.0"/>
+</session>
