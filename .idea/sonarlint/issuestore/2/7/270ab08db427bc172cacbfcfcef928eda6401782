@@ -1,0 +1,19 @@
+
+9
+java:S1659"#Declare "email" on a separate line.(ŞŞ¾®
+N	java:S106"9Replace this use of System.out or System.err by a logger.(–ÿì¬
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Áöã½ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ôç¢×
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ş…ºù
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°Œ„­
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°§•ƒüÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(“¡îëùÿÿÿÿ
+S	java:S106%"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¬ĞÍ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(õÜ‚ãüÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(ÀŒ§
+0
+java:S1220""Move this file to a named package.
